@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44450",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\TrainingStuff\\VS Projects\\Day23\\Recharge\\Recharge\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
